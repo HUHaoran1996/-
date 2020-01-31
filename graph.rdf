@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.example.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.example.org/Apex_is_turning_to_esports">
+    <ns1:is_part_of rdf:resource="http://www.example.org/esport"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/Pop_star_Ellie_Goulding">
+    <ns1:is_part_of rdf:resource="http://www.example.org/entertainment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/TV_in_2020">
+    <ns1:is_part_of rdf:resource="http://www.example.org/entertainment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/League_of_Legends_World_Championship">
+    <ns1:is_part_of rdf:resource="http://www.example.org/esport"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/All_Creature_Great_and_Small">
+    <ns1:is_part_of rdf:resource="http://www.example.org/entertainment"/>
+  </rdf:Description>
+</rdf:RDF>
